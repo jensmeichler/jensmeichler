@@ -54,7 +54,9 @@ building user-friendly interfaces that enhance user experience.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ### ❤️ If you like my work, please consider supporting me
-<iframe src="https://github.com/sponsors/jensmeichler/button" title="Sponsor jensmeichler" height="35" width="107" style="border: 0"></iframe>
+[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/<username>)
 
 </details>
