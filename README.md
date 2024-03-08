@@ -6,7 +6,7 @@ building user-friendly interfaces that enhance user experience.
 
 <details>
   <summary>
-    <b style="text-decoration: underline; cursor: pointer">More about me</b>
+    <b><ins>More about me</ins></b>
   </summary>
 
 ### 👨‍💻 My current projects
